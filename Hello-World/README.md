@@ -1,5 +1,5 @@
 # Hello-World
 Bioinformatics repository
 #========README TEXT========#
-Miguel
+Miguel Ángel Cornejo y Ángela Prado
 
