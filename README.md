@@ -1,5 +1,4 @@
 # Hello-World
 Test repository + Lab 
-#========README TEXT STUFF OR SMTHNG IG IDK========#
-sample text
+#========README TEXT========#
 ANGELA PRADO Y MIGUEL CORNEJO
