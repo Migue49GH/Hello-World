@@ -1,0 +1,12 @@
+¿Cómo pueden verse las primeras 10 líneas del archivo?
+usando el comando head -n 10 Akkermansia.txt
+
+
+¿Cuántos genomas de Akkermansia muciniphila hay?
+usamos el siguiente comando:
+grep "Akkermansia muciniphila" Akkermansia.txt|wc-l
+Hay 1205
+
+
+¿Cuántos de Akkermasia biwaensis?
+Modificando el comando anterior vemos que solo hay 1
